@@ -29,6 +29,8 @@
 ## 二、中转 API 的核心价值
 
 中转 API 通过构建统一 “中间层”，将多模型对接、网络加速、错误切换、计费整合等复杂工作交由专业平台处理，开发者仅需**一套标准接口、一个 API Key**，即可调用全球各类主流 AI 模型。
+<img width="1264" height="848" alt="night_scene_4k" src="https://github.com/user-attachments/assets/2a1ed8e7-9db0-4327-a687-903fa8c777db" />
+
 
 行业内将其形象称为「大模型万能适配器」，核心卖点包括：
 
