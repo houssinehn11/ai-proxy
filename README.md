@@ -191,49 +191,29 @@ print(response.choices[0].message.content)
 
 **拓展链接**
 
+***🛠️ 开发工具***
 
 
 * [Chatbox 配置一步API](https://yibuapi.apifox.cn/6444533m0)
-
 * [PyCharm 配置一步API](https://yibuapi.apifox.cn/6445895m0)
-
 * [Cursor 配置一步API](https://yibuapi.apifox.cn/6448317m0)
-
 * [Trae AI 配置一步API](https://yibuapi.apifox.cn/6448319m0)
-  
 * [CherryStudio 配置一步API](https://yibuapi.apifox.cn/6899114m0)
-  
 * [Dify 配置一步API](https://yibuapi.apifox.cn/6903330m0)
-  
 * [AingDesk 配置一步API](https://yibuapi.apifox.cn/6448321m0)
-  
 * [VS Code 配置一步API](https://yibuapi.apifox.cn/6448329m0)
-  
 * [IntelliJ IDEA 配置一步API](https://yibuapi.apifox.cn/6909585m0)
-  
 * [immersivetranslate 沉浸式翻译配置一步API](https://yibuapi.apifox.cn/7118634m0)
-  
 * [Zed 配置一步API](https://yibuapi.apifox.cn/7124796m0)
-  
 * [DeepChat 配置一步API](https://yibuapi.apifox.cn/7124811m0)
-  
 * [Void 配置一步API](https://yibuapi.apifox.cn/7135435m0)
-  
 * [LibreChat 配置一步API](https://yibuapi.apifox.cn/7140266m0)
-
 * [Sider 配置一步API](https://yibuapi.apifox.cn/7146472m0)
-  
 * [NextChat 沉浸式翻译配置一步API](https://yibuapi.apifox.cn/7146704m0)
-  
 * [ChatWise 配置一步API](https://yibuapi.apifox.cn/7158864m0)
-
 * [Glarity 配置一步API](https://yibuapi.apifox.cn/7173029m0)
-  
 * [Tavo 沉浸式翻译配置一步API](https://yibuapi.apifox.cn/7181855m0)
-  
 * [OMate Chat 配置一步API](https://yibuapi.apifox.cn/7193452m0)
-
 * [Claude Code 配置一步API](https://yibuapi.apifox.cn/7200412m0)
-
 * [91写作平台 配置一步API](https://yibuapi.apifox.cn/7279860m0)
 
