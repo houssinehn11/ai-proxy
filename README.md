@@ -43,6 +43,8 @@
 * 多平台计费与额度统一管理
 
 * 模型故障自动降级，提升服务可用性
+<img width="1680" height="624" alt="night_scene_4k" src="https://github.com/user-attachments/assets/33c584e5-e1f0-4550-97bf-4967169ae565" />
+
 
 ## 三、一步 API 核心能力
 
